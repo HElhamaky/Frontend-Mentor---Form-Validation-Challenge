@@ -1,5 +1,5 @@
 .form {
-  padding: 2rem 2rem 0.5rem 2rem;
+  padding: 2rem 2rem 0 2rem;
   &__div {
     position: relative;
     height: 3.25rem;
@@ -111,6 +111,9 @@
     & ~ .requirements {
       max-height: 200px;
     }
+  }
+
+  @include breakpoint-down(medium) {
   }
 }
 

@@ -114,7 +114,7 @@ a:hover {
   color: #b9b6d3;
   text-align: center;
   font-size: 0.75rem;
-  line-height: 1.7rem;
+  line-height: 1.3rem;
   padding-bottom: 2rem;
   margin: 0;
   width: 70%;
@@ -130,6 +130,7 @@ a:hover {
   section {
     max-width: 30rem;
     margin: auto;
+    padding-bottom: 7rem;
   }
 }
 
@@ -165,7 +166,7 @@ a:hover {
 }
 
 .form {
-  padding: 2rem 2rem 0.5rem 2rem;
+  padding: 2rem 2rem 0 2rem;
 }
 
 .form__div {

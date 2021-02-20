@@ -2,6 +2,7 @@ section {
   @include breakpoint-down(medium) {
     max-width: 30rem;
     margin: auto;
+    padding-bottom: 7rem;
   }
 
   @include breakpoint-up(large) {
